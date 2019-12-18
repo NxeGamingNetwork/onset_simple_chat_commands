@@ -6,13 +6,10 @@ Give ano and pub commands to your players !
 - Step 2 - Open the <b>.zip</b> file
 - Step 3 - Do you see the folder in ? Yes ? Ok good
 - Step 4 - Now open the <b>packages folder</b> of your server
-- Step 5 - Make sure you see my folder as clearly as before
-- Step 6 - Put your mouse on my folder
-- Step 7 - Press and hold your left click
-- Step 8 - Move the mouse to the <b>packages folder</b> of your server.
-- Step 9 - Release your left click
-- Step 10 - Start your Onset server
-- Step 11 - It works!
+- Step 5 - Slide <b>simple_chat_commands</b> into.
+- Step 6 - Open the server file <b>server_config.json</b> and declare the new package by adding "simple_chat_commands".
+- Step 7 - Start your Onset server
+- Step 8 - It works!
 
 <b>Easy, isn't it?</b>
 
