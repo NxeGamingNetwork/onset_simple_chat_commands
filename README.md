@@ -17,3 +17,5 @@ Give ano and pub commands to your players !
 <b>Easy, isn't it?</b>
 
 ## The configuration is in the file sv_chat.lua
+
+[![Example](http://img.youtube.com/vi/CI2oiWChlsc/0.jpg)](https://youtu.be/CI2oiWChlsc "Example")
