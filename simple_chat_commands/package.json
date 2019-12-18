@@ -1,0 +1,9 @@
+{
+	"author": "Wasied",
+	"version": "1.0",
+	"server_scripts": [
+        "sv_chat.lua"
+	],
+	"client_scripts": [],
+	"files": []
+}
