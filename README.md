@@ -13,6 +13,7 @@ Give ano and pub commands to your players !
 - Step 9 - Release your left click
 - Step 10 - Start your Onset server
 - Step 11 - It works!
+
 <b>Easy, isn't it?</b>
 
 ## The configuration is in the file sv_chat.lua
